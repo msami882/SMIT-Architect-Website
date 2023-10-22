@@ -1,0 +1,81 @@
+.nav a{
+	color: #000;
+	font-weight: 600;
+}
+.firstsection{
+	position: relative;
+    text-align: center;
+}
+.firstsection img{
+	width: 100%;
+	height: 600px;
+}
+.firstsection .textonimage b{
+	font-weight: 600;
+}
+.firstsection .textonimage{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    font-size: 20px;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px 20px;
+}
+.projects img{
+	width: 100%;
+}
+.secondsection .projects{
+	position: relative;
+	padding: 8px;
+}
+.secondsection .projects p{
+	position: absolute;
+    top: 8px;
+    left: 8px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 5px 10px;
+}
+.thirdsection .card{
+	border: none;
+}
+.thirdsection .card-header{
+	margin: 0;
+	padding: 0;
+}
+.thirdsection img{
+	width: 100%;
+}
+.thirdsection .card-body .role{
+	color: #a3a3a3;
+}
+.thirdsection .card-footer{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+.thirdsection .card-footer button{
+	width: 100%;
+	text-align: center;
+}
+.fourthsection button{
+	border-radius: 0;
+}
+.fifthsection img{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 600px;
+}
+.footer{
+	color: #fff;
+	padding: 20px 0 5px 0;
+	text-align: center;
+}
+
+.footer a{
+	color: #fff;
+	text-decoration: none;
+}
